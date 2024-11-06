@@ -9,6 +9,8 @@ nginx
 bitnami/nginx
 jenkins/jenkins
 minio/minio
+bitnami/kafka:3.4.1
+dushixiang/kafka-map:latest
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
